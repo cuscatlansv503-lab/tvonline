@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group-title="MEXICO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCvWqKiaJ3TpcjlbUUKy6vRpj4yLGY6idPKm7mmQkyH8wxTQZ29nLaR66JRo4Yb8dv0NJTs6JkDZMBKvlPPf_XMVAR003gwToHwlqrOSFS36_LDqeLnTXdPKhptC-TrelgM8Le4Dr4pcrsdD86lDLQYU__l2lCXJ8mXN-90xzkw2-70qvGCLZyjSBkyAJ/s500/Picsart_25-06-05_20-51-04-887.png",BLUEPLAY TV
-https://archive.org/download/W9wkendosjwkejd9w/blueplaytvintro.mp4
-#EXTINF:0 group-title="MEXICO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhSTRSY9ixz6o37GDrFj7lwA_VcyHJHCqCDj2mpNzdsrngjxT0XuEyJhJazlIByfvt-9fBsszk1UNLJQO23mJCxJe_pXStuGtoa-Th2w_ElOsWjiwHel_zmWUmoNEtU8K6MlULZZYKX1VpJOjSpxn8SBEogJu4OmVumn74MfylRhWbQSEYSWJ0-_GeSwV/s320/1000223968.png",PLAY TV
-https://live20.bozztv.com/akamaissh101/ssh101/47917playtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="MEXICO" tvg-logo="https://btv.mx/posters/1720832446344.png" ,A Mas i
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/159054.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="MEXICO" tvg-logo="https://btv.mx/posters/1724197323400.png" ,A mas P
